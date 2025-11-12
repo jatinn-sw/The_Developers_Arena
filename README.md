@@ -10,7 +10,7 @@ Each week represents a new milestone in building strong foundations and practica
 
 ### **Week 1:**
 **Basics of Python**  
-A crucial first step in my Data Science journey — learning the fundamentals of Python, the most essential language for data analysis and machine learning.   
+A crucial first step in any Data Science journey, the fundamentals of Python, the most essential language for data analysis and machine learning.   
 
 ---
 
