@@ -6,15 +6,15 @@ Each week represents a new milestone in building strong foundations and practica
 
 ---
 
-## 📅 Weekly Progress
+## Weekly Progress
 
 ### **Week 1:**
-**📘 Basics of Python**  
+**Basics of Python**  
 A crucial first step in my Data Science journey — learning the fundamentals of Python, the most essential language for data analysis and machine learning.   
 
 ---
 
-## 🧩 About the Repository
+## About the Repository
 This repository serves as a **chronological record** of my hands-on learning process in Data Science.  
 Each week will include:
 - A project folder containing relevant code and notebooks
@@ -22,7 +22,7 @@ Each week will include:
 
 ---
 
-## 🧑‍💻 Author
+## Author
 **Jatin Sangewar**  
 Passionate about leveraging data to build meaningful insights and intelligent solutions.  
 
