@@ -12,6 +12,11 @@ Each week represents a new milestone in building strong foundations and practica
 **Basics of Python**  
 A crucial first step in any Data Science journey, the fundamentals of Python, the most essential language for data analysis and machine learning.   
 
+### **Week 2:**  
+**Making Decisions & Repeating Tasks**  
+Diving deeper into logic building with if-else conditions, loops, functions, and a project-based Student Grade Calculator with feedback messages.
+
+
 ---
 
 ## About the Repository
