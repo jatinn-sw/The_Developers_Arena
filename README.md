@@ -16,6 +16,10 @@ A crucial first step in any Data Science journey, the fundamentals of Python, th
 **Making Decisions & Repeating Tasks**  
 Diving deeper into logic building with if-else conditions, loops, functions, and a project-based Student Grade Calculator with feedback messages.
 
+### **Week 3:**  
+**Introduction to Data Analysis**  
+Explored the basics of working with real-world data using the Pandas library—loading datasets cleaning data, handling missing values, and performing simple statistical analysis. 
+The project for this week focused on analyzing a sales dataset to compute total sales, identify the best-selling product, and generate a simple report summarizing the findings.
 
 ---
 
@@ -25,10 +29,3 @@ Each week will include:
 - A project folder containing relevant code and notebooks
 - Practical examples and exercises  
 
----
-
-## Author
-**Jatin Sangewar**  
-Passionate about leveraging data to build meaningful insights and intelligent solutions.  
-
-*Feel free to connect or share feedback!*
