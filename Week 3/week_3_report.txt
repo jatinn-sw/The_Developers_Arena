@@ -1,0 +1,7 @@
+Simple Sales Report
+-------------------
+Total Sales: 5019265.23
+
+Best-Selling Product:
+- Product ID: 1099
+- Total Sales: 101773.87
