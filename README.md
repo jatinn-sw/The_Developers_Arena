@@ -26,6 +26,10 @@ The project for this week focused on analyzing a sales dataset to compute total 
 Learned how to communicate insights through visualizations using Matplotlib, exploring chart types such as histograms, bar charts, and line graphs.  
 This week’s project involved performing a complete data analysis workflow—loading data, exploring patterns, visualizing key trends, and presenting clear insights through both numbers and charts.
 
+### **Week 5:**
+**Advanced Data Manipulation with Pandas** Mastered complex data operations by learning grouping, aggregation, merging multiple datasets, and handling time-series data to extract deeper business insights.  
+This was focused on a comprehensive ***Customer Sales Analysis***, identifying top customers, visualizing monthly trends, and building a multi-chart sales dashboard using advanced Pandas techniques.
+
 ---
 
 ## About the Repository
