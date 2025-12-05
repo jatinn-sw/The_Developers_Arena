@@ -21,6 +21,11 @@ Diving deeper into logic building with if-else conditions, loops, functions, and
 Explored the basics of working with real-world data using the Pandas library—loading datasets cleaning data, handling missing values, and performing simple statistical analysis. 
 The project for this week focused on analyzing a sales dataset to compute total sales, identify the best-selling product, and generate a simple report summarizing the findings.
 
+### **Week 4:**  
+**Data Visualization & Complete Analysis**  
+Learned how to communicate insights through visualizations using Matplotlib, exploring chart types such as histograms, bar charts, and line graphs.  
+This week’s project involved performing a complete data analysis workflow—loading data, exploring patterns, visualizing key trends, and presenting clear insights through both numbers and charts.
+
 ---
 
 ## About the Repository
